@@ -1,0 +1,7 @@
+com/registrocita/service/MedicosService.class
+com/registrocita/domain/Medicos.class
+com/registrocita/data/MedicosDAO.class
+com/registrocita/web/JAXRSActivator.class
+com/registrocita/data/MedicosDAOImpl.class
+com/registrocita/domain/Medicos_.class
+com/registrocita/web/CorsFilter.class

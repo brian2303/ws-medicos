@@ -1,0 +1,6 @@
+/home/glzs/NetBeansProjects/doc-service/src/main/java/com/registrocita/web/CorsFilter.java
+/home/glzs/NetBeansProjects/doc-service/src/main/java/com/registrocita/data/MedicosDAOImpl.java
+/home/glzs/NetBeansProjects/doc-service/src/main/java/com/registrocita/data/MedicosDAO.java
+/home/glzs/NetBeansProjects/doc-service/src/main/java/com/registrocita/service/MedicosService.java
+/home/glzs/NetBeansProjects/doc-service/src/main/java/com/registrocita/domain/Medicos.java
+/home/glzs/NetBeansProjects/doc-service/src/main/java/com/registrocita/web/JAXRSActivator.java
